@@ -91,7 +91,7 @@ export default function Hero() {
                     {item.description}
                   </p>
 
-                  <button className="mt-8 bg-gradient-to-r from-[#fca624] to-[#ee8c04] text-white px-8 py-4 rounded-full font-semibold">
+                  <button className="mt-8 bg-gradient-to-r from-[#fca624] to-[#ee8c04] text-white px-8 py-4 mb-4 rounded-full font-semibold">
                     Order Now
                   </button>
                 </motion.div>
